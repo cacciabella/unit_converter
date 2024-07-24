@@ -1,0 +1,109 @@
+.container{
+    position: absolute;
+    left: 580px;
+    top: 150px;
+    width: 308px;
+    height: 548px;
+    background-color:rgb(245, 236, 236);
+    border-radius: 20px;
+}
+
+.display{
+    position: absolute;
+    left: 15px;
+    top: 15px;
+   
+    width: 276px;
+    height:223px;
+    background-color: blue;
+    border-radius: 20px;
+
+}
+
+.metres{
+    position: absolute;
+    left: 70px;
+    top: 55px;
+    border: 1px solid white;
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    width: 132px;
+    height: 81px;
+    border-radius: 20px;
+}
+
+.converter{
+    position: absolute;
+    left: 85px;
+    top: 150px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+   
+    width: 104px;
+    height: 42px;
+    border-radius: 20px;
+}
+
+h4{
+    position: absolute;
+    left: 25px;
+   
+    
+    color: white;
+   
+  
+
+}
+
+.convert{
+    position: absolute;
+    left: 15px;
+    top: 260px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+   
+    width: 276px;
+    height: 71px;
+    border-radius: 20px;
+}
+
+.convert1{
+    position: absolute;
+    left: 15px;
+    top: 355px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+   
+    width: 276px;
+    height: 71px;
+    border-radius: 20px;
+}
+
+.convert2{
+    position: absolute;
+    left: 15px;
+    top: 450px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+   
+    width: 276px;
+    height: 71px;
+    border-radius: 20px;
+}
+
+h3{
+    position: absolute;
+    left: 40px;
+    bottom: 30px;
+}
+
+p{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
